@@ -22,7 +22,7 @@ import org.dom4j.swing.*;
 
 /**
  *
- * @author subhre
+ * @author subhrajit roy
  */
 public class frmMain extends javax.swing.JFrame {
 
